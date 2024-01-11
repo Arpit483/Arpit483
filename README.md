@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Arpit483
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning App Development
+- 🌱 I’m currently learning coding
+- 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
