@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Arpit483
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning coding
-- 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👋 Hi, I’m Arpit Deosthale
+- 👀 Just a Begginer
+- 🌱 I’m currently learning Java
+-  😀Feel free to guide me
 
 <!---
 Arpit483/Arpit483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
