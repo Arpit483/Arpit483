@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpit Deosthale
 - 👀 Just a Begginer
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Android Development
 -  😀Feel free to guide me
 
 <!---
