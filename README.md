@@ -1,27 +1,30 @@
 # 🛠️ Welcome to My GitHub – @Arpit483
 
-Hey there! I'm **Arpit**, a **Software Engineer**, **Android Developer**, and **Cybersecurity Enthusiast** who loves building secure apps and ethically breaking systems to understand how they work.
+Hi! I'm **Arpit Deosthale**, an aspiring **Penetration Tester** with a passion for ethical hacking, system security, and reverse engineering. My work revolves around breaking and understanding systems to build more secure solutions.
 
 ---
 
-## 🔐 Cybersecurity Focus
+## 🔐 Cybersecurity Journey
 
-I'm diving deep into **penetration testing** and offensive security. I enjoy:
+I'm on a hands-on, lab-driven journey into **offensive security** and **penetration testing**, with a strong foundation in:
 
-- 🧠 Solving CTFs on **TryHackMe**, **Hack The Box**, and **PicoCTF**
-- 🛠️ Using tools like **Nmap**, **Burp Suite**, **sqlmap**, **Hydra**, and **Metasploit**
-- 🧪 Testing vulnerabilities in **web apps**, **Android apps**, and **networks**
-- 🐍 Writing Python scripts for automation, scanning, and exploit development
-- 🐧 Working in **Linux-based environments** for full control and customization
+- 🧠 Solving CTFs on **TryHackMe** (80+ day streak), **Hack The Box**, and **Advent of Cyber 2024**
+- 🌐 Practicing **Web Application Security** using **PortSwigger Academy**
+- 🛠️ Utilizing industry-standard tools:  
+  `Nmap`, `Metasploit`, `Wireshark`, `SQLMap`, `Burp Suite`, `Gobuster`, and more
+- 🐧 Building and using a personal **penetration testing lab** on **Kali Linux** via **VMware Workstation**
+- 🔍 Practicing Privilege escalation, and enumeration techniques
+- 📊 Deploying and configuring **Splunk** for log monitoring and incident detection
+- 🐍 Writing **Python scripts** for automation and exploitation
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects & Activities
 
-- 📱 **Android Apps** – Java + Firebase projects  
-- ⚔️ **Pentesting Scripts** – Recon, brute-forcing, and exploit dev  
-- 🧾 **CTF Writeups** – Step-by-step solutions for security challenges  
-- 📚 **Cybersecurity Resources** – Notes on OWASP, Linux, and tools
+- 🧪 **CTF Labs** – TryHackMe, Hack The Box, and OverTheWire  
+- 🧰 **Personal Cyber Lab** – VMware-based AD & Linux lab for attack simulation  
+- 🔐 **SIEM with Splunk** – Event monitoring & log correlation
+- 🌐 **Web Exploitation Labs** – XSS, SQLi, SSRF, CSRF, etc. via PortSwigger
 
 ---
 
@@ -30,23 +33,34 @@ I'm diving deep into **penetration testing** and offensive security. I enjoy:
 **Languages & Platforms**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Cybersecurity Tools**  
-![Nmap](https://img.shields.io/badge/Nmap-5C5CFF?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logoColor=white)
-![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=python&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2D2D2D?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-007A5E?style=for-the-badge&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=for-the-badge&logo=hackaday&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-800000?style=for-the-badge&logoColor=white)
+**Cybersecurity & Pentest Tools**  
+![Nmap](https://img.shields.io/badge/Nmap-5C5CFF?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2D2D2D?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-grey?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-164378?style=for-the-badge)
 
 **Learning Platforms**  
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-03A9F4?style=for-the-badge)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-grey?style=for-the-badge)
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 CyberStorm 2025 (Google Developer Groups x SIES GST)
+- 🔍 Cybersecurity Job Simulation – Mastercard (via Forage)
+- 🧠 ESF Workshop – CyStar, **IIT Madras**
 
 ---
 
@@ -66,10 +80,13 @@ I'm diving deep into **penetration testing** and offensive security. I enjoy:
 
 ---
 
-## 🧑‍💻 Let's Connect
+## 📬 Let's Connect
 
-Always up for hacking challenges, mobile app collabs, or just building cool stuff.  
-📫 Reach out if you're into **Android development**, **ethical hacking**, or both!
+I'm always open to connect, collaborate, or compete (in a CTF 😄)!
+
+- 📧 **Email**: arpitdeosthale12@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/arpit-deosthale-64b153275](https://www.linkedin.com/in/arpit-deosthale-64b153275)  
+- 💻 **GitHub**: [github.com/Arpit483](https://github.com/Arpit483)
 
 ---
 
