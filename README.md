@@ -84,7 +84,7 @@ I'm on a hands-on, lab-driven journey into **offensive security** and **penetrat
 
 I'm always open to connect, collaborate, or compete (in a CTF 😄)!
 
-- 🔗 **LinkedIn**: [linkedin.com/in/arpit-deosthale-64b153275](https://www.linkedin.com/in/arpit-deosthale-64b153275)  
+- 🔗 **LinkedIn**: [linkedin.com/in/arpit-deosthale](https://www.linkedin.com/in/arpit-deosthale/)  
 
 ---
 
