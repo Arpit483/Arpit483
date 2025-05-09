@@ -84,9 +84,7 @@ I'm on a hands-on, lab-driven journey into **offensive security** and **penetrat
 
 I'm always open to connect, collaborate, or compete (in a CTF 😄)!
 
-- 📧 **Email**: arpitdeosthale12@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/arpit-deosthale-64b153275](https://www.linkedin.com/in/arpit-deosthale-64b153275)  
-- 💻 **GitHub**: [github.com/Arpit483](https://github.com/Arpit483)
 
 ---
 
