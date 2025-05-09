@@ -1,47 +1,52 @@
 # 🛠️ Welcome to My GitHub – @Arpit483
 
-Hey there! I'm **Arpit**, a **Software Engineer**, **Android Developer**, and **Cybersecurity Enthusiast** who loves to build secure apps and break systems (ethically) to understand how they work.
+Hey there! I'm **Arpit**, a **Software Engineer**, **Android Developer**, and **Cybersecurity Enthusiast** who loves building secure apps and ethically breaking systems to understand how they work.
 
 ---
 
 ## 🔐 Cybersecurity Focus
 
-I'm actively working toward becoming a skilled **penetration tester**, with experience in:
+I'm diving deep into **penetration testing** and offensive security. I enjoy:
 
-- 🧠 **CTF Challenges** – TryHackMe, Hack The Box, PicoCTF, etc.  
-- 🔍 **Recon & Scanning** – Nmap, Gobuster, Sublist3r, etc.  
-- 🛠️ **Exploitation Tools** – Burp Suite, sqlmap, Metasploit, Hydra  
-- 🐍 **Scripting** – Python for automation, custom payloads, and tooling  
-- 🧪 **Vulnerability Testing** – Web apps, Android apps, and networks  
-- 🧰 **Red Team Learning** – Enumeration, privilege escalation, persistence
-
-I'm always exploring, documenting, and pushing deeper into the offensive side of security.
+- 🧠 Solving CTFs on **TryHackMe**, **Hack The Box**, and **PicoCTF**
+- 🛠️ Using tools like **Nmap**, **Burp Suite**, **sqlmap**, **Hydra**, and **Metasploit**
+- 🧪 Testing vulnerabilities in **web apps**, **Android apps**, and **networks**
+- 🐍 Writing Python scripts for automation, scanning, and exploit development
+- 🐧 Working in **Linux-based environments** for full control and customization
 
 ---
 
 ## 🚀 Projects
 
 - 📱 **Android Apps** – Java + Firebase projects  
-- ⚔️ **Pentesting Tools** – Custom scripts for scanning & brute-forcing  
-- 🧾 **CTF Writeups** – Notes and walkthroughs from THM, HTB, etc.  
-- 📚 **Cybersecurity Resources** – Notes on OWASP, Linux, and exploits
+- ⚔️ **Pentesting Scripts** – Recon, brute-forcing, and exploit dev  
+- 🧾 **CTF Writeups** – Step-by-step solutions for security challenges  
+- 📚 **Cybersecurity Resources** – Notes on OWASP, Linux, and tools
 
 ---
 
 ## ⚙️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Languages & Platforms**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**🛠️ Hacking Tools**  
-- Nmap · Burp Suite · sqlmap · Metasploit · Hydra  
-- Gobuster · John the Ripper  
-- OSINT tools · Wordlists · Custom Python scripts
+**Cybersecurity Tools**  
+![Nmap](https://img.shields.io/badge/Nmap-5C5CFF?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=python&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2D2D2D?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-007A5E?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=for-the-badge&logo=hackaday&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-800000?style=for-the-badge&logoColor=white)
 
-**🏴‍☠️ Platforms**  
-- TryHackMe · Hack The Box · PortSwigger Web Security Academy
+**Learning Platforms**  
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ---
 
@@ -63,8 +68,8 @@ I'm always exploring, documenting, and pushing deeper into the offensive side of
 
 ## 🧑‍💻 Let's Connect
 
-Open to collabs, hacking challenges, or building something awesome.  
-Reach out if you're into **Android development**, **ethical hacking**, or both!
+Always up for hacking challenges, mobile app collabs, or just building cool stuff.  
+📫 Reach out if you're into **Android development**, **ethical hacking**, or both!
 
 ---
 
