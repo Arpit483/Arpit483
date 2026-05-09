@@ -35,8 +35,8 @@ Aspiring **Cybersecurity Engineer** and **AI/ML Engineer** with hands-on experie
 ## 🏆 Achievements
 
 - 🥇 **CyberStorm 2025** – Google Developer Groups × SIES GST
-- 🏅 **Smart India Hackathon (SIH)** – Participant
-- 💡 **Cause Hackathon** – Participant
+- 🏅 **Smart India Hackathon (SIH)** – Runner up
+- 💡 **Cause Hackathon** – Best Startup Award
 - 🔍 **Cybersecurity Job Simulation** – Mastercard (Forage)
 - 🧠 **ESF Workshop** – CyStar, IIT Madras
 
