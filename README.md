@@ -1,6 +1,6 @@
 # Arpit Deosthale – @Arpit483
 
-Aspiring **Cybersecurity Engineer** and **AI/ML Engineer** with hands-on experience in penetration testing, ethical hacking, and intelligent systems development.
+**AI/ML Engineer** and **Cybersecurity Engineer** with hands-on experience in penetration testing, ethical hacking, and intelligent systems development.
 
 ---
 
