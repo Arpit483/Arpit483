@@ -1,79 +1,61 @@
-# Arpit Deosthale – @Arpit483
+# Hi, I'm Arpit Deosthale
 
-**AI/ML Engineer** and **Cybersecurity Engineer** with hands-on experience in penetration testing, ethical hacking, and intelligent systems development.
+Computer Engineering student interested in **Machine Learning**, **Software Engineering**, and **Cybersecurity**. I enjoy building intelligent systems, solving security challenges through CTFs, and developing practical solutions with real-world impact.
 
----
+## About Me
 
-## 🔐 Cybersecurity
+* Computer Engineering student with a strong interest in AI/ML and Cybersecurity
+* Active participant in Capture The Flag (CTF) competitions and security labs
+* Interested in applying machine learning techniques to security and automation problems
+* Experienced in Android development, backend development, and embedded systems
+* Passionate about continuous learning through hands-on projects and hackathons
 
-- CTF practitioner on **TryHackMe** (80+ day streak), **Hack The Box**, and **OverTheWire**
-- Web application security via **PortSwigger Academy** (XSS, SQLi, SSRF, CSRF)
-- Tools: `Nmap` · `Metasploit` · `Wireshark` · `Burp Suite` · `SQLMap` · `Gobuster`
-- Personal pentest lab on **Kali Linux** (VMware) with AD & Linux attack simulation
-- **SIEM** deployment and log correlation using **Splunk**
+## Current Focus
 
----
+* Machine Learning and Deep Learning
+* Security Engineering and SOC Fundamentals
+* Software Engineering Best Practices
+* Open Source Contributions and Technical Interview Preparation
 
-## 🤖 AI & Machine Learning
+## Tech Stack
 
-- Machine Learning, Deep Learning & Neural Networks
-- Data Analysis, Visualization & Predictive Modeling
-- AI for Cybersecurity & Threat Detection
-- Stack: `Python` · `NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow` · `Keras` · `Matplotlib`
+### Languages
 
----
+`Python` • `Java` • `C++` • `JavaScript` • `SQL`
 
-## ⚙️ Tech Stack
+### Machine Learning
 
-### 💻 Languages & Platforms
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+`TensorFlow` • `Keras` • `Scikit-learn` • `NumPy` • `Pandas` • `Matplotlib`
 
-### 🔐 Cybersecurity Tools
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2D2D2D?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-5C5CFF?style=for-the-badge&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-555555?style=for-the-badge&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-164378?style=for-the-badge&logo=vmware&logoColor=white)
+### Cybersecurity
 
-### 🤖 AI & ML Tools
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+`Burp Suite` • `Wireshark` • `Nmap` • `Metasploit` • `Splunk` • `SQLMap` • `Gobuster`
 
-### 📚 Platforms
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-03A9F4?style=for-the-badge&logoColor=white)
-![OverTheWire](https://img.shields.io/badge/OverTheWire-555555?style=for-the-badge&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+### Tools & Platforms
 
----
+`Linux` • `Git` • `Firebase` • `Flask` • `Android Development` • `VMware` • `Jupyter Notebook`
 
-## 🏆 Achievements
+## Cybersecurity
 
-- 🏅 **Latrobe Technology Infusion Grand Challenge** – Acquired Funding
-- 🏅 **Smart India Hackathon (SIH)** – Runner Up
-- 💡 **Cause Hackathon** – Best Startup Award
-- 🥇 **CyberStorm 2025** – Google Developer Groups × SIES GST
-- 🔍 **Cybersecurity Job Simulation** – Mastercard (Forage)
-- 🧠 **ESF Workshop** – CyStar, IIT Madras
+* Active participant on **TryHackMe**, **Hack The Box**, and **OverTheWire**
+* Hands-on experience with web application security testing through **PortSwigger Web Security Academy**
+* Practical experience in:
 
+  * Web Application Security Testing
+  * Network Enumeration and Vulnerability Assessment
+  * Active Directory Fundamentals
+  * Security Monitoring and Log Analysis using Splunk
+* Maintained a personal security lab using **Kali Linux** and **VMware** for learning and experimentation
 
----
+## Achievements
 
-## 📬 Connect
+* 🏅 **Latrobe Technology Infusion Grand Challenge** – Acquired Funding
+* 🏅 **Smart India Hackathon (SIH)** – Runner Up
+* 🏅 **Cause Hackathon** – Best Startup Award
+* 🏅 **CyberStorm 2025** – Google Developer Groups × SIES GST
+* 🧠 **ESF Workshop** – CyStar, IIT Madras
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpit%20Deosthale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-deosthale/)
+## Connect
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Arpit483&color=blue)
+* LinkedIn: https://www.linkedin.com/in/arpit-deosthale/
+* GitHub: https://github.com/Arpit483
