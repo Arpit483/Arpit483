@@ -53,7 +53,6 @@ Computer Engineering student interested in **Machine Learning**, **Software Engi
 * 🏅 **Smart India Hackathon (SIH)** – Runner Up
 * 🏅 **Cause Hackathon** – Best Startup Award
 * 🏅 **CyberStorm 2025** – Google Developer Groups × SIES GST
-* 🧠 **ESF Workshop** – CyStar, IIT Madras
 
 ## Connect
 
