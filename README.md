@@ -35,25 +35,6 @@ Computer Engineering student interested in **Machine Learning**, **Software Engi
 
 `Linux` • `Git` • `Firebase` • `Flask` • `Android Development` • `VMware` • `Jupyter Notebook`
 
-## Cybersecurity
-
-* Active participant on **TryHackMe**, **Hack The Box**, and **OverTheWire**
-* Hands-on experience with web application security testing through **PortSwigger Web Security Academy**
-* Practical experience in:
-
-  * Web Application Security Testing
-  * Network Enumeration and Vulnerability Assessment
-  * Active Directory Fundamentals
-  * Security Monitoring and Log Analysis using Splunk
-* Maintained a personal security lab using **Kali Linux** and **VMware** for learning and experimentation
-
-## Achievements
-
-* 🏅 **Latrobe Technology Infusion Grand Challenge** – Acquired Funding
-* 🏅 **Smart India Hackathon (SIH)** – Runner Up
-* 🏅 **Cause Hackathon** – Best Startup Award
-* 🏅 **CyberStorm 2025** – Google Developer Groups × SIES GST
-
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/arpit-deosthale/
